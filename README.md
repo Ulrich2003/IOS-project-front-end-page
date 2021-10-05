@@ -2,7 +2,7 @@
 [![Author](https://img.shields.io/badge/Author-ChuanyangChen-red.svg "Author")](https://github.com/Ulrich2003 "Author")
 [![frame](https://img.shields.io/badge/frame-uniapp-green.svg "frame")](https://uniapp.dcloud.io/ "frame")
 [![platform](https://img.shields.io/badge/platform-iOS-blue.svg "platform")](https://github.com/Ulrich2003 "platform")
-
+**If some pictures don't load, you can jump to this address:** https://blog.csdn.net/weixin_45525653/article/details/120616083
 # Record an ios front-end project
 This is a medical application software interface that I designed in the second half of 2021. 
 Before I did this project, I didn't have any front-end project experience, and my teammates who played together just gave me a simple prototype (They did a lot of work in other ways 💪) and I taught myself uni-app (After all, learning native languages like swift or objective-c is a big headache 🤕️). It took me about two weeks to write the front page of this project using the uni-app framework.
